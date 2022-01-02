@@ -169,3 +169,5 @@ public static void main(String[] args) {
 }
 ```
 
+https://zhengw-tech.com/2022/01/02/pf4j-use/
+
